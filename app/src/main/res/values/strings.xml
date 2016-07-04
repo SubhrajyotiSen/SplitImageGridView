@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplitImage</string>
+    <string name="button_text">Split Image in small images</string>
+    <string name="image">image</string>
+</resources>
